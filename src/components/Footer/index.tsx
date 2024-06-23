@@ -1,4 +1,3 @@
-import React from 'react'
 import { LogoGithub, LogoInstagram, LogoLinkedin } from 'react-ionicons'
 
 const Footer = () => {
