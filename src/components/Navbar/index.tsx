@@ -1,4 +1,3 @@
-import React from 'react'
 import { LogoInstagram, LogoLinkedin, LogoGithub } from 'react-ionicons';
 import { useNavigate } from 'react-router'
 
