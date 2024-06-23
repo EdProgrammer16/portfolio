@@ -1,4 +1,4 @@
-import { CameraOutline, ImageOutline, VideocamOffSharp, VideocamOutline } from "react-ionicons";
+import { CameraOutline, ImageOutline, VideocamOutline } from "react-ionicons";
 
 const Services = () => {
     const servicesList = [
