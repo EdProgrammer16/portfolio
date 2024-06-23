@@ -1,4 +1,3 @@
-import React from 'react';
 import { LogoFigma, LogoGithub, LogoInstagram, LogoLinkedin } from 'react-ionicons';
 import Navbar from '../Navbar';
 
